@@ -1,3 +1,3 @@
-# Data-Science-Assignment-eCommerce-Transactions-Dataset-
+# Data-Science-Assignment-eCommerce-Transactions-Dataset
 
-# Perform exploratory data analysis (EDA), build predictive models, and derive actionable insights. 
+### Perform exploratory data analysis (EDA), build predictive models, and derive actionable insights. 
